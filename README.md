@@ -71,7 +71,7 @@ Immerse yourself in a magical world where you can create a new character, explor
 ---
 
 ## **🗂️ File Structure**
-
+```
 Assets/
 ├── Resources/
 │   ├── Backgrounds/
@@ -86,6 +86,7 @@ Resources/: Visual assets, cell textures, UI buttons
 Prefabs/: Dumbledore, Voldemort, and house-specific cell prefabs
 Scripts/: All gameplay, zone, and simulation logic
 Scenes/: Title screen and main simulation scene
+```
 
 --- 
 
